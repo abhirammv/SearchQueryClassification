@@ -439,15 +439,6 @@ perform_cv(model, X, y, 10)
 
 
 
-
-
-
-
-
-
-
-
-
    
             
 
